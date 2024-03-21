@@ -1,9 +1,7 @@
 # Колесник Андрей Сергеевич
 
----
 ## Java-разработчик (junior)
 
----
 <img src="https://sun9-3.userapi.com/impg/_yiAm1no_Q9ixwXZSIDrcY6-UDFRJJkEnO2VcA/ogUyu_l1GrQ.jpg?size=1442x2160&quality=96&sign=02b8518bda8555df4929f29c65daa938&type=album" width="200px">
 
 ## Личная информация
@@ -14,11 +12,10 @@
 e-mail: andrewdrum94@yandex.ru<br>
 Telegram: t.me/Andrewdrum94<br>
 Телефон: +7-951-143-37-79<br>
-github: https://github.com/alisasuslova/resume
+github: https://github.com/Andrewdrum94/Resume
 
 ## Образование
 
----
 ### Высшее
 **Учебное заведение:** Белгородский государственный институт искусств и культуры
 **Факультет:** Инструментальное исполнительство<br>
@@ -38,8 +35,6 @@ github: https://github.com/alisasuslova/resume
 
 
 ## Опыт работы
-
----
 <span id="sp">Что-та нада написать...</span>
 
 <!--Период работы: 04.2015 – настоящее время
