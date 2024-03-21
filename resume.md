@@ -1,44 +1,9 @@
-<h1 style="text-shadow: 0px 0px 4px black, 0px 2px 9px grey; letter-spacing: 2px;">Колесник Андрей Сергеевич
+# Колесник Андрей Сергеевич
 
 ---
-<style>
-#sp {
-    font-size: 30px;
-    font-weight: bold;
-    animation: load 2s linear infinite;
-    position: relative;
-    left: 0px;
-}
-@keyframes load {
-    0% {background-color: white;}
-    25% {background-color: green;}
-    50% {background-color: red;
-        left: 40%;
-    }
-    75% {background-color: blue;}
-    100% {background-color: yellow;
-        left: 0px;}
-}
-
-#move {
-    width: 90%;
-    height: 30px;
-    background: rgba(100,100,100,0.2);
-    position: absolute;
-    animation: move-div 1.5s linear infinite;
-    top: 560px;
-}
-#move:hover {
-animation-play-state: paused;
-}
-@keyframes move-div {
-    100% {top: 750px;}
-}
-</style>
 ## Java-разработчик (junior)
 
 ---
-
 <img src="https://sun9-3.userapi.com/impg/_yiAm1no_Q9ixwXZSIDrcY6-UDFRJJkEnO2VcA/ogUyu_l1GrQ.jpg?size=1442x2160&quality=96&sign=02b8518bda8555df4929f29c65daa938&type=album" width="200px">
 
 ## Личная информация
